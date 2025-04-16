@@ -9,3 +9,7 @@ T
 $contracts/property-verification.clar,9/2/92aedc8494904be11f2c1570671ab7c7affd1770
 S
 #tests/property-verification.test.ts,2/4/24ed03513bc4144786f1838c91c7ee0e72c40d8a
+I
+contracts/room-block.clar,7/0/70c467d01875547790723f9240ed84d10254980b
+H
+tests/room-block.test.ts,b/9/b92a9449aa13614337669116750baf45ab8012ae
